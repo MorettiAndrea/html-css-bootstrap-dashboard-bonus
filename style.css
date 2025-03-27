@@ -1,0 +1,21 @@
+img {
+  width: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.radius {
+  border-radius: 7px;
+}
+[class*="col"] {
+  margin-bottom: 1rem;
+}
+
+label {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
